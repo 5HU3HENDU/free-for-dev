@@ -1054,6 +1054,8 @@ Table of Contents
    * [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1-day data retention, unlimited dashboards, users, etc.
    * [usabilityhub.com](https://usabilityhub.com/) — Test designs and mockups on real people, track visitors. Free for one user, unlimited tests
    * [woopra.com](https://www.woopra.com/) — Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.
+   * [Microsoft Clarity](https://clarity.microsoft.com/) — Replay user sessions and explore heatmaps to make your website work better for your customers and your business, for free.
+
 
 ## Visitor Session Recording
 
